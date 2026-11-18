@@ -152,7 +152,3 @@ and a new game), Firefox 158 waited 2.8-2.9 s for the boot's 39 pipelines where 
 1.8-1.9 s for title's 43 when the title came up; Chrome 155 headless waited 1.4-1.6 s for 6 at the start where it had
 waited 1.4-1.5 s for 12, and built the rest by ~6 s after Start Game against ~3 s; both drew 59-60 presents a second
 (median), with no WebGPU errors.
-
-How the page plays, in each browser and on which GPU, is recorded in N64Recomp-browser's
-[plays.jsonl](https://github.com/n64hub/N64Recomp-browser/blob/main/plays.jsonl) and its
-[games table](https://github.com/n64hub/N64Recomp-browser#games).

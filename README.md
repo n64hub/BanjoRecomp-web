@@ -11,8 +11,8 @@
 > for: what it turns up is fixed there where it can be, so every recomp's page gets the fix.
 
 **Play it in the browser: https://n64hub.com/banjo-kazooie/**, with your own ROM, picked in the launcher
-and kept in the browser. It needs WebGPU (Chrome or Edge 113 and up). The page is built from this branch and published
-with N64Recomp-browser's `tools/publish_page.sh`, so it can be a commit or two behind.
+and kept in the browser. It needs WebGPU (Chrome or Edge 113 and up). The page is built from this branch, so it can be a
+commit or two behind.
 
 Banjo: Recompiled is a project that uses [N64: Recompiled](https://github.com/N64Recomp/N64Recomp) to **statically recompile** Banjo-Kazooie into a native port with many new features, enhancements, and extensive mod support. This project uses [RT64](https://github.com/rt64/rt64) as the rendering engine to provide graphical enhancements.
 
